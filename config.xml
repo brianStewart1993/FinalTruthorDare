@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.phonegap.truthordare" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>TruthorDareV2</name>
     <description>
-       A truth or dare app for pleasurable times
+       A truth or dare app for pleasurable times plus more
     </description>
     <author email="stewart.brian36@yahoo.com" href="http://cordova.io">
         Brian Stewart

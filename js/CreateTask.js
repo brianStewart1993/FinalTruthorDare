@@ -129,6 +129,12 @@ function callGamePage()
   window.location = "CrappyBird.html";
 };
 
+function callHextrisPage()
+{ 
+  window.location = "Hextris.html";
+};
+
+
 
 
 
